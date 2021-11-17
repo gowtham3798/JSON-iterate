@@ -15,3 +15,15 @@ for(let x of obj){
   obj.forEach(function(value){
      console.log(value)
   });
+  
+  var obj = [{
+  Name: "Gowtham Periasamy",
+  Age: 23,
+  company: "GUVI" ,
+  Email: "gowtham3798@gmail.com",
+  phone: "96584-25469",
+  Degree: "B.E",
+  Branch: "Mechanical Engineering",
+  Institution: "Kumaraguru College of Technoogy",
+  }]
+  console.log(obj)
